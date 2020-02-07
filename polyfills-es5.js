@@ -16349,6 +16349,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     __webpack_require__.d(__webpack_exports__, "__importDefault", function () {
       return __importDefault;
     });
+<<<<<<< HEAD
     /*! *****************************************************************************
     Copyright (c) Microsoft Corporation. All rights reserved.
     Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -16362,6 +16363,21 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     
     See the Apache Version 2.0 License for specific language governing permissions
     and limitations under the License.
+=======
+    /*! *****************************************************************************
+    Copyright (c) Microsoft Corporation. All rights reserved.
+    Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+    this file except in compliance with the License. You may obtain a copy of the
+    License at http://www.apache.org/licenses/LICENSE-2.0
+    
+    THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+    WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+    MERCHANTABLITY OR NON-INFRINGEMENT.
+    
+    See the Apache Version 2.0 License for specific language governing permissions
+    and limitations under the License.
+>>>>>>> ca27f03695d87d0b04dcb641ee638a61ea12ff38
     ***************************************************************************** */
 
     /* global Reflect, Promise */
